@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**ms-devcoder/ms-devcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently building scalable web applications using **Java, Spring Boot, and React.js** across microservices architectures.
 
-Here are some ideas to get you started:
+🌱 Exploring **AI integrations for web services and cloud-native application design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about designing **Frontend, REST APIs, distributed systems, and event-driven services**.
+
+📦 Featured project: **OrderHub Microservices Platform**  
+👉 [View the Project](https://github.com/RestaurantFoodOrdering/platform-readme)
+
+🚀 **Open to Work** – actively looking for **Full Stack Software Engineer opportunities** (Java / Spring Boot / React/Angular/).
+
+🧠 Consistent **DSA problem solver**, regularly practicing algorithms and data structures.
+
+🤝 Interested in collaborating on **backend systems, APIs, and scalable full-stack platforms**.
+
+📫 Reach me at: **mohansai.mvs@gmail.com**
